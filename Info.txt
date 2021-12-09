@@ -1,0 +1,8 @@
+Hello I will be guiding for you how to use this Client
+
+1. Login is for accounts that already been made If you do not have a account use the (Sign up option)
+2. Signing up is easy basically enter your username that you want also your password you will be assign with a speical key in your desktop called (h_auth.json)
+3. Check for updates (basically it already tells you)
+4. Credits (to see who were the people who made this client Il give you a hint rohan#2560 and some few others
+5. How to use? (Basically I just told you silly,)
+6. Exit out of the Program (Closing the program)
